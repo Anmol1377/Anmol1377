@@ -1,9 +1,13 @@
-Hi, I'm Anmol ​✨​
-🧠​ Computer science and design student at CY Tech / CY Ecole de Design
-​🌌​ I create themed desktop apps to stay consistent
-​🎥 I make videos about code and design on Instagram
-🪻 Download my projects and useful resources/tutorials on my Gumroad
-💫 Join the Star-Lab community to learn and connect with other coders!
+👋 Hey there! I'm a Software Developer @Inc42
+🚀 I craft reliable, user-friendly web experiences with a strong focus on performance and cybersecurity.
+💻 Skilled in WordPress, PHP, JavaScript, and Laravel — always exploring new tech and better ways to build.
+🛡️ Passionate about protecting digital spaces from evolving cyber threats.
+🤝 I thrive in collaborative environments and love tackling challenges head-on.
+
+📚 Constantly learning. Always growing.
+💬 Open to sharing insights, exchanging knowledge, and sparking new ideas.
+
+Let’s connect, collaborate, and build something awesome! 🔗✨
 
 
 ## 🌐 Socials:
