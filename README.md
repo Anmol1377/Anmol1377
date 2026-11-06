@@ -29,4 +29,7 @@ Let’s connect, collaborate, and build something awesome! 🔗✨
 ---
 [![](https://visitcount.itsvg.in/api?id=anmol1377&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🐟 My Koi
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
